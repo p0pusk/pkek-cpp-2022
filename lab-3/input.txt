@@ -1,0 +1,35 @@
+{
+  name: submenus
+  type: parent
+  submenus:
+  {
+  	name: sub1
+	type: color
+	info: blue
+  },
+  {
+  	name: sub2
+	type: color
+	info: black
+  },
+  {
+  	name: sub2
+	type: color
+	info: red
+  }
+},
+{
+  name: popup
+  type: popup
+  info: Popup!
+},
+{
+  name: something
+  type: popup
+  info: ku
+},
+{
+  name: somethingElse
+  type: popup
+  info: kek
+}

@@ -1,0 +1,24 @@
+For what
+  it's  
+ worth,
+ here's
+ another
+ way to
+ extract
+ tokens
+ from an
+  input  
+ string,
+ relying
+ only on
+standard
+ library
+facilities
+. It's an
+example of
+the power
+   and   
+elegance
+behind the
+design of
+ the STL.
