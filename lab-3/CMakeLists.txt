@@ -7,8 +7,8 @@ find_package(Qt6Widgets REQUIRED)
 add_executable(
 	test
 	main.cpp
-	MenuNode.cpp
-	MenuWindow.cpp
-	)
+	Widget.cpp
+	Button.cpp
+)
 
 target_link_libraries(test Qt::Widgets)

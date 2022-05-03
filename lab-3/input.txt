@@ -4,18 +4,18 @@
   submenus:
   {
   	name: sub1
-	type: color
-	info: blue
+	type: popup
+	info: sub1
   },
   {
   	name: sub2
-	type: color
-	info: black
+	type: popup
+	info: sub2
   },
   {
   	name: sub2
-	type: color
-	info: red
+	type: popup
+	info: sub3
   }
 },
 {
